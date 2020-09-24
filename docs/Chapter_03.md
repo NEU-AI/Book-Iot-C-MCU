@@ -390,7 +390,7 @@ if(cpu_temperature_active == 1)
 
 ## USART串口
 
-// todo
+// todo 蓝牙透传模块
 
 ## 看门狗
 
