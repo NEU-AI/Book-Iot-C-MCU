@@ -53,7 +53,7 @@ LED与传统灯泡在加电后都能发光，不同的是LED具有方向性，�
 
 ![](../image/01_tb_led_circuit.png)
 
-在开发环境中以现有的ioc文件创建工程：File-New-> STM32 Project From...->Browse 弹窗中找到ioc文件，选择合适的项目文件并选择C语言开发选项。单击`Finish`即可完成工程创建。
+在开发环境中以现有的ioc文件创建工程：File-New-> STM32 Project From...->Browse 弹窗中找到`demo_L1_led_and_key.ioc`文件，选择合适的项目文件并选择C语言开发选项。单击`Finish`即可完成工程创建。
 
 注意：需要提前下载`STM32CubeIDE`，并创建基于`STM32F405`的工程，目的是下载需要的库文件，如HAL库等。如果使用其他系列处理器则需要分别创建工程。
 
